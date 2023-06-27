@@ -1,2 +1,3 @@
 # Codes
-I actually started practicing coding very recently. I started solving questions from GFG. Here is the repository of codes which I've solved.
+I only lately got started with coding. I began answering GFG queries. Here is a repository of programmes that I have solved in both Java and Python.
+
